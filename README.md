@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/RiSar16/RiSar16/main/header.png)
 - 🧑‍🎓 Hi, I’m Riccardo Saracino and Data Science student at University Of Southern Denmark (SDU) in Odense
 - 🔭 I’m searching for a MSc project in 2022 involving Data Science, Modelling and Visualization
 - 🌱 I’m learning advanced data mining methods, Deep Learning algorithms and natural language processing (NLP)
