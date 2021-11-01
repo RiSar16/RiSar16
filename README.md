@@ -5,4 +5,3 @@
 - 🧠 Currently stimulated by anomaly detection, text summarization, image segmentation and ensuring data quality
 - 📜 Favourite poem: "Go all the way" by C.B. 
 - 📫 Contact me on risar16@student.sdu.dk or  https://www.linkedin.com/in/riccardosaracino/
-https://raw.githubusercontent.com/RiSar16/RiSar16/main/header.png
