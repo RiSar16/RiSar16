@@ -6,5 +6,4 @@
 - 🧠 Currently stimulated by outlier detection, transformers and ensuring data quality
 - 🏢 My MSc project thesis is developing a ML classifier at the service of a Danish public institution 🇩🇰
 - 🏃 Goal to reach: an application that run in a Docker container
-
-Ps.: picture generated with a detailed prompt and Microsoft Copilot, which is serviced by DALLE3 for generating pictures (12-27-2023)
+- Note: picture generated with a detailed prompt and Microsoft Copilot, which is serviced by DALLE3 for generating pictures (12-27-2023)
