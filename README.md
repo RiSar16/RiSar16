@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/RiSar16/RiSar16/main/header.png)
+![_ba4a31f0-98dc-4a73-a775-9e11e335470a](https://github.com/risar16/RiSar16/assets/78689231/ee6650f8-02d2-4b01-93dc-bcb6e9c37673)
 - 🎓 MSc. Data Science, University Of Southern Denmark (SDU), Odense
 - 📜 Favourite poem: "Go all the way" by C.B. 
 - 🌱 On learning: Azure fundamentals, Docker. Next step, FastAPI and Kubernetes
